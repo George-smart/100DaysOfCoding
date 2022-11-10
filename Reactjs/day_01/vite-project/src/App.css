@@ -1,0 +1,35 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  position: relative;
+}
+.header{
+  min-height: 30vh;
+}
+
+.header,
+.main{
+  padding: 4rem;
+  line-height: 1.4;
+}
+
+.header, 
+.footer{
+  background-color: #61dbfb;
+}
+h1{
+  font-size: 3rem;
+}
+
+.main{
+  min-height: 80vh;
+}
+
+.footer{
+  min-height: 10vh;
+  text-align: center;
+  padding: 2rem;
+}

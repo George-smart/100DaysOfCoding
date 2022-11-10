@@ -1,0 +1,5 @@
+1. What is React? 
+React is a JavaScript Library, Which can be use to create a single page application
+
+2. What is a Library?
+A library is file that contains serveral code snippets which can be a resuable functions, objects.
